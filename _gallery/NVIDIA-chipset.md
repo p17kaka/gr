@@ -2,7 +2,7 @@
 author: p17kaka
 title: NVIDIA-chipset
 image_url: /images/NVIDIA-chipset.jpg
-caption: 'Ο όρος τσίπσετ αναφέρεται σε ένα σύνολο ολοκληρωμένων κυκλωμάτων (τσιπ), τα οποία είναι σχεδιασμένα να δουλεύουν μαζί.'
+caption: 'Ξ ΟΟΞΏΟ‚ Ο„ΟƒΞ―Ο€ΟƒΞµΟ„ Ξ±Ξ½Ξ±Ο†Ξ­ΟΞµΟ„Ξ±ΞΉ ΟƒΞµ Ξ­Ξ½Ξ± ΟƒΟΞ½ΞΏΞ»ΞΏ ΞΏΞ»ΞΏΞΊΞ»Ξ·ΟΟ‰ΞΌΞ­Ξ½Ο‰Ξ½ ΞΊΟ…ΞΊΞ»Ο‰ΞΌΞ¬Ο„Ο‰Ξ½ (Ο„ΟƒΞΉΟ€), Ο„Ξ± ΞΏΟ€ΞΏΞ―Ξ± ΞµΞ―Ξ½Ξ±ΞΉ ΟƒΟ‡ΞµΞ΄ΞΉΞ±ΟƒΞΌΞ­Ξ½Ξ± Ξ½Ξ± Ξ΄ΞΏΟ…Ξ»ΞµΟΞΏΟ…Ξ½ ΞΌΞ±Ξ¶Ξ―.'
 license_url: 'https://commons.wikimedia.org/wiki/File:NVIDIA_chipset_IMG_1127.JPG'
 license_text: Courtesy of Hans Haase
 categories:
