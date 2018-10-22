@@ -8,7 +8,6 @@
 remote_theme: "mmistakes/minimal-mistakes"
 #theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-encoding: UTF-8
 
 # Site Settings
 locale                   : "gr-GR"
@@ -16,9 +15,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://mibook.github.io"
+url                      : "https://p17kaka.github.io"
 baseurl                  : "/gr"
-repository               : "mibook/gr"
+repository               : "p17kaka/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -67,14 +66,14 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://mibook.org/gr"
+  home             : "https://p17kaka.github.io/gr"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "p17kaka"
   gitlab           :
   google_plus      :
   keybase          :
