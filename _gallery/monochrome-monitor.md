@@ -2,7 +2,7 @@
 author: p17kaka
 title: monochrome-monitor
 image_url: /images/monochrome-monitor.jpg
-caption: 'Το μονοχρωμικό μόνιτορ είναι ενας τύπος οθόνης CRT, ο οποιος ηταν συνιθισμένος στην αρχή της πληροφορικής απο τη δεκατια του 1960 μεχρι του 1980.'
+caption: 'Ξ¤ΞΏ ΞΌΞΏΞ½ΞΏΟ‡ΟΟ‰ΞΌΞΉΞΊΟ ΞΌΟΞ½ΞΉΟ„ΞΏΟ ΞµΞ―Ξ½Ξ±ΞΉ ΞµΞ½Ξ±Ο‚ Ο„ΟΟ€ΞΏΟ‚ ΞΏΞΈΟΞ½Ξ·Ο‚ CRT, ΞΏ ΞΏΟ€ΞΏΞΉΞΏΟ‚ Ξ·Ο„Ξ±Ξ½ ΟƒΟ…Ξ½ΞΉΞΈΞΉΟƒΞΌΞ­Ξ½ΞΏΟ‚ ΟƒΟ„Ξ·Ξ½ Ξ±ΟΟ‡Ξ® Ο„Ξ·Ο‚ Ο€Ξ»Ξ·ΟΞΏΟ†ΞΏΟΞΉΞΊΞ®Ο‚ Ξ±Ο€ΞΏ Ο„Ξ· Ξ΄ΞµΞΊΞ±Ο„ΞΉΞ± Ο„ΞΏΟ… 1960 ΞΌΞµΟ‡ΟΞΉ Ο„ΞΏΟ… 1980.'
 license_url: 'https://commons.m.wikimedia.org/wiki/File:5151_monochrome_monitor.jpg'
 license_text: Courtesy of steverenouk
 categories:
@@ -11,4 +11,3 @@ categories:
 tags:
   - Monitor
 ---
-
